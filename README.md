@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chirdeeptomar.
 - 💻 I randomly program in Java/Kotlin, C#, Python, Node/Typecript/React.
 - 👀 Interested in Software Design, patterns and best practices.
-- 📖 Currently learning Rust.
+- 📖 Long time Rust enthusiast and learner.
 - 🤓 Fascinated by Compiler and Database design.
 
 <!---
